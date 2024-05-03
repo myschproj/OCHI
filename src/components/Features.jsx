@@ -12,7 +12,7 @@ export const Features = () => {
       </div>
       <div className='flex gap-5 mt-4'>
         <div className='w-1/2'>
-          <h4>FYDE</h4>
+          <h4 className='text-[1.6vw]'>FYDE</h4>
           <div onMouseEnter={() => setHoveringFyde(true)} onMouseLeave={() => setHoveringFyde(false)} className='mt-2 relative'>
             <img  src="src\assets\Fyde_Illustration_Crypto_2-1326x1101.png" alt="" />
             <h1 className='absolute flex overflow-hidden z-10 text-6xl font-bold text-[#CDEA68] right-0  translate-x-1/2 top-1/2'>
@@ -23,7 +23,7 @@ export const Features = () => {
           </div>
         </div>
         <div className='w-1/2'>
-          <h4>VICE</h4>
+          <h4 className='text-[1.6vw]'>VICE</h4>
           <div onMouseEnter={() => setHoveringVice(true)} onMouseLeave={() => setHoveringVice(false)} className='mt-2 relative'>
             <img  src="src\assets\Vise_front2-1326x1101.jpg" alt="" />
             <h1 className='absolute flex overflow-hidden text-6xl font-bold text-[#CDEA68]  -translate-x-1/2  top-1/2'>
