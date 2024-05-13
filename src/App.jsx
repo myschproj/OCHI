@@ -20,11 +20,6 @@ function App() {
       <Navbar />
       <Homepage />
       <Weare />
-      <Readmore />
-      <Lookout />
-      <Features />
-      <Cards />
-      <Ready />
       <Footer />
       
     </>
