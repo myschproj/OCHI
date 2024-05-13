@@ -12,22 +12,22 @@ const Footer = () => {
           <div className='flex gap-10 py-5'>
             <div className='w-1/2 font-thin text-[1.2vw]'>
               <div className='flex flex-col pt-5'>
-                <h6>S:</h6>
-                <a href="">Instagram</a><a href="">Behance</a><a href="">Facebook</a><a href="">Linkedin</a>
+                <h6>Социальное:</h6>
+                <a href="">Блог</a><a href="">Телеграм</a><a href="">ВКонтакте</a><a href="">Сообщество</a>
               </div>
               <div className='flex flex-col pt-5'>
-                <h6>L:</h6>
-                <a href="#">202-1965 W 4th Ave</a><a href="">Vancouver, Canada</a><a href="">30 Chukarina St</a><a href="">Lviv, Ukraine</a>
+                <h6>Адрес:</h6>
+                <a href="#">Россия, Москва</a><a href="">Дмитровское шоссе, дом 7к1, помещение 1</a><a href="">Россия, Казань</a><a href="">улица Ленина, дом 7к1, помещение 1</a>
               </div>
               <div className='flex flex-col pt-5'>
-                <h6>E:</h6>
+                <h6>Электропочта:</h6>
                 <a href="#">hello@ochi.design</a>
               </div>
             </div>
             <div className='w-1/2 font-thin'>
               <div className='flex flex-col pt-5 text-[1.2vw]'>
-                <h6>M:</h6>
-                <a href="">Home</a><a href="">services</a><a href="">Our Work</a><a href="">About Us</a><a href="">Insights</a><a href="">Contact Us</a>
+                <h6>Продукты:</h6>
+                <a href="">Итериум.WMS</a><a href="">Итериум.TMS</a><a href="">Итериум.HRMS</a><a href="">Итериум.CRM</a><a href="">Итериум.Дев</a><a href="">Итериум.FinMS</a>
               </div>
             </div>
           </div>
@@ -36,8 +36,8 @@ const Footer = () => {
       <div className='flex justify-between items-center mt-6'>
         <h4 className='w-1/2 text-[2vw] font-semibold'>Итериум</h4>
         <div className='w-1/2 font-light text-zinc-400 flex justify-between items-center text-[1vw]'>
-          <a href="#">© ООО "ИТЕРИУМ" since 2024. Legal Terms</a>
-          <a href="#">Website by @aptxayc</a>
+          <a href="#">© ООО "ИТЕРИУМ", 2024</a>
+          <a href="#">Запрогано в Итериуме</a>
         </div>
       </div>
     </div>
