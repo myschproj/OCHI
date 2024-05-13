@@ -34,10 +34,10 @@ const Footer = () => {
         </div>
       </div>
       <div className='flex justify-between items-center mt-6'>
-        <h4 className='w-1/2 text-[2vw] font-semibold'>ochi</h4>
+        <h4 className='w-1/2 text-[2vw] font-semibold'>Итериум</h4>
         <div className='w-1/2 font-light text-zinc-400 flex justify-between items-center text-[1vw]'>
-          <a href="#">© ochi design 2024. Legal Terms</a>
-          <a href="#">Website by Chakri</a>
+          <a href="#">© ООО "ИТЕРИУМ" since 2024. Legal Terms</a>
+          <a href="#">Website by @aptxayc</a>
         </div>
       </div>
     </div>
