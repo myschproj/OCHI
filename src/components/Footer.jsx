@@ -5,10 +5,10 @@ const Footer = () => {
     <div data-scroll data-scroll-section data-scroll-speed=".2" className=' w-full h-screen px-10'>
       <div className='flex mt-4'>
         <div className='w-1/2 text-[6vw] font-semibold'>
-          <h2>EYE-OPENING</h2>
+          <h2>ИЗ ИТЕРИУМА</h2>
         </div>
         <div className='w-1/2 '>
-          <h2 className='text-[6vw] font-semibold'>PRESENTATIONS</h2>
+          <h2 className='text-[6vw] font-semibold'>С ЛЮБОВЬЮ ❤️</h2>
           <div className='flex gap-10 py-5'>
             <div className='w-1/2 font-thin text-[1.2vw]'>
               <div className='flex flex-col pt-5'>
